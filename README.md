@@ -5,6 +5,9 @@
 - Author of the software: [libRoadrunner](https://github.com/sys-bio/roadrunner), [Tellurium](https://github.com/sys-bio/tellurium), [PathwayDesigner](https://github.com/hsauro/PathwayDesigner), SCAMP, etc
 - Author of books on systems biology, linear algebra, enzyme kinetics, writing interpreters, Euclid: A Pocket Book, Introduction to Rust, and Basic Algebra for High School
   
+Link to other pages I have:
+
+[hsauro.org](https://www.hsauro.org)
 
 <!--
 **hsauro/hsauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
