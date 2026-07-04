@@ -3,7 +3,14 @@
 <!--
 **hsauro/hsauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <img src="https://shields.io" alt="HTML" />
+  <img src="https://shields.io" alt="CSS" />
+  <img src="https://shields.io" alt="JS" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Git" />
+</p>
 
 Here are some ideas to get you started:
 
@@ -13,6 +20,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
