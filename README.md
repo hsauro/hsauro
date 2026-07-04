@@ -1,16 +1,12 @@
 ## Hi there 👋
 
+- Professor of Bioengineering at the University of Washington, Seattle, USA
+- Computational Teach Control theory, Advanced Control Theory (with Joe Hellerstein), and Conputatinal Systems Biology (with Joe Hellerstein)
+- Author of the software: libRoadrunner, Tellurium, PathwayDesigner, SCAMP, etc
+- Author of books on systems biology, linear algebra, enzyme kinetics, writing interpreters, Euclid, Rust, and Basic Algebra
+
 <!--
 **hsauro/hsauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<p align="center">
-  <img src="https://shields.io" alt="HTML" />
-  <img src="https://shields.io" alt="CSS" />
-  <img src="https://shields.io" alt="JS" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Git" />
-</p>
 
 Here are some ideas to get you started:
 
