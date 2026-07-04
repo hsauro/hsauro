@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - Professor of Bioengineering at the University of Washington, Seattle, USA
-- Computational Teach Control theory, Advanced Control Theory (with Joe Hellerstein), and Computational Systems Biology (with Joe Hellerstein)
+- I teach Control theory, Advanced Control Theory (with Joe Hellerstein), and Computational Systems Biology (with Joe Hellerstein)
 - Author of the software: [libRoadrunner](https://github.com/sys-bio/roadrunner), [Tellurium](https://github.com/sys-bio/tellurium), [PathwayDesigner](https://github.com/hsauro/PathwayDesigner), SCAMP, etc
 - Author of books on systems biology, linear algebra, enzyme kinetics, writing interpreters, Euclid: A Pocket Book, Introduction to Rust, and Basic Algebra for High School
   
