@@ -11,7 +11,7 @@ Link to other pages I have:
 
 Some of my own Delphi projects and some forked Delphi projects:
 
-[Delphi Projects](https://github.com/hsauro?tab=stars)
+[Delphi Projects](https://github.com/stars/hsauro/lists/my-delphi-projects)
 
 <!--
 **hsauro/hsauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
