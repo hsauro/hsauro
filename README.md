@@ -9,7 +9,7 @@ Link to other pages I have:
 
 [hsauro.org](https://www.hsauro.org)
 
-Some of my Delphi projects:
+Some of my own Delphi projects and some forked Delphi projects:
 
 [Delphi Projects](https://github.com/hsauro?tab=stars)
 
