@@ -9,6 +9,10 @@ Link to other pages I have:
 
 [hsauro.org](https://www.hsauro.org)
 
+Some of my Delphi projects:
+
+[Delphi Projects](https://github.com/hsauro?tab=stars)
+
 <!--
 **hsauro/hsauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
